@@ -14,12 +14,12 @@ You may download them from:
 * Alternatively, it may be possible to install them using a package manager.
 
 To build, go the the project folder - same level of src - and run:
-```
+``````
 mkdir build
 cd build
 cmake ..
 make
-```
+``````
 
 The resulting executables can be found in `build/src`.
 
